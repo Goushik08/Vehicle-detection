@@ -1,0 +1,14 @@
+# Vehicle Detection - Python dependencies
+# Python 3.9 - 3.12 recommended
+
+ultralytics>=8.3.0
+torch>=2.0.0
+numpy
+opencv-python
+matplotlib
+pillow
+
+# Jupyter (needed for the live webcam cell: IPython display + clear_output)
+ipython
+jupyter
+ipykernel
